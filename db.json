@@ -1,0 +1,40 @@
+{
+  "records": [
+    {
+      "id": "1",
+      "date": 1554279723,
+      "title": "title 1",
+      "amount": 48
+    },
+    {
+      "id": "2",
+      "date": 1554279663,
+      "title": "title 2",
+      "amount": 47
+    },
+    {
+      "id": "3",
+      "date": 1554279603,
+      "title": "title 3",
+      "amount": 41
+    },
+    {
+      "id": "4",
+      "date": 1554280054,
+      "title": "title 4",
+      "amount": 70
+    },
+    {
+      "id": "5",
+      "date": 1554279994,
+      "title": "title 5",
+      "amount": 13
+    },
+    {
+      "id": "6",
+      "date": "2019-04-02",
+      "title": "title 6",
+      "amount": "10"
+    }
+  ]
+}
